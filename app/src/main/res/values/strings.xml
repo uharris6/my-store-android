@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Store</string>
+    <string name="categories">Categorías</string>
+    <string name="all">Todos</string>
+    <string name="cart">Carro</string>
+    <string name="featured">Destacado</string>
+    <string name="detail">Detalle</string>
+    <string name="purchase">Pagar</string>
+    <string name="delete">Eliminar</string>
+    <string name="total_amount">Monto total: %1$s</string>
+</resources>
